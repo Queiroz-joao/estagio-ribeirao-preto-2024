@@ -1,1 +1,1 @@
-Valor da variável soma será = 1
+1) Valor da variável soma será = 1
